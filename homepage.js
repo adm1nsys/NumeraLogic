@@ -151,7 +151,7 @@ btn.style.textDecoration = "none";
 btn.style.transition = "1s";
 
 btn.addEventListener('click', function() {
-    window.location.href = "https://github.com/administrati0n/http-master";
+    window.location.href = "https://github.com/adm1nsys/NumeraLogic";
 });
 
 btn.addEventListener('mouseover', function() {
