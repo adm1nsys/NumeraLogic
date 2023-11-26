@@ -191,7 +191,7 @@ btn1.style.marginTop = "10px";
 btn1.style.transition = "1s";
 
 btn1.addEventListener('click', function() {
-    window.location.href = "https://github.com/adm1nsys/NumeraLogic/releases/tag/NumeraLogic";
+    window.location.href = "https://adm1nsys.github.io/inc/";
 });
 
 btn1.addEventListener('mouseover', function() {
